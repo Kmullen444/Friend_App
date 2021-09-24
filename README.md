@@ -1,24 +1,7 @@
-# README
+Friends List App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+This app allows for multiple user to have log ins, each one has access to a friends list
+where the user can add, edit, or delete a friend input.
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
